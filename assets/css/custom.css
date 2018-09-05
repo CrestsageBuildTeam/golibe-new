@@ -761,3 +761,13 @@ section#festival-about-section .section-content-container,section#onitsha-about-
 .full-width-section div.container {
     max-width: inherit;
 }
+@media screen and (max-width: 767px){
+  section#festival-about-section .section-content-container,section#onitsha-about-section .section-content-container {
+      position:  static;
+      transform: translateY(0%);
+      -webkit-transform: translateY(0%);
+      -o-transform: translateY(0%);
+      -ms-transform: translateY(0%);
+      -moz-transform: translateY(0%);
+  }
+}
