@@ -192,7 +192,7 @@
             </div>
             <div class="section-content">
               <div class="boxed-content">
-                <h3 class="big-title">24TH</h3>
+                <h3 class="big-title">23RD</h3>
                 <strong>December</strong>
                 <strong>2018</strong>
               </div>
@@ -230,7 +230,7 @@
           <div class="event-container cover-bg" style="background-image:url(assets/images/christmas-event.jpg);" >
             <div class="top-section">
               <div class="event-date overlay-black">
-                <h3 class="day">24</h3>
+                <h3 class="day">23 - 24</h3>
                 <h5 class="month">DECEMBER</h3>
                 <h5 class="year">2018</h5>
               </div>
@@ -245,10 +245,48 @@
           </div>
         </div>
         <div class="col-lg-4 col-sm-12 col-md-6 ">
+          <div class="event-container cover-bg" style="background-image:url(assets/images/Art-event.jpg);" >
+            <div class="top-section">
+              <div class="event-date overlay-black">
+                <h3 class="day">24 - 31</h3>
+                <h5 class="month">DECEMBER</h3>
+                <h5 class="year">2018</h5>
+              </div>
+            </div>
+            <div class="bottom-section">
+              <div class="overlay-black">
+                <h3 class="big-title event-name">ART EXHIBITION</h3>
+                <h5 class="event-tag hide">Art</h5>
+                <a class="btn btn-regular" href="art-exhibition/">Join Us</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-12 col-md-6 ">
+          <div class="event-container cover-bg" style="background-image:url(assets/images/celebration-zone-event.jpg);" >
+            <div class="top-section">
+              <div class="event-date overlay-black">
+                <h3 class="day">25 - 30</h3>
+                <h5 class="month">DECEMBER</h3>
+                <h5 class="year">2019</h5>
+              </div>
+            </div>
+            <div class="bottom-section">
+              <div class="overlay-black">
+                <h3 class="big-title event-name">CELEBRATION ZONE</h3>
+                <h5 class="event-tag">Chill Zone</h5>
+                <a class="btn btn-regular" href="celebration-zone/">Check it Out</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-12 col-md-6 ">
           <div class="event-container cover-bg" style="background-image:url(assets/images/golibe-dreamland-event.jpg);" >
             <div class="top-section">
               <div class="event-date overlay-black">
-                <h3 class="day">24</h3>
+                <h3 class="day">25 - 31</h3>
                 <h5 class="month">DECEMBER</h3>
                 <h5 class="year">2018</h5>
               </div>
@@ -262,42 +300,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-sm-12 col-md-6 ">
-          <div class="event-container cover-bg" style="background-image:url(assets/images/Art-event.jpg);" >
-            <div class="top-section">
-              <div class="event-date overlay-black">
-                <h3 class="day">24</h3>
-                <h5 class="month">DECEMBER</h3>
-                <h5 class="year">2018</h5>
-              </div>
-            </div>
-            <div class="bottom-section">
-              <div class="overlay-black">
-                <h3 class="big-title event-name">Art Exhibition</h3>
-                <h5 class="event-tag hide">Art</h5>
-                <a class="btn btn-regular" href="art-exhibition/">Join Us</a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-12 col-md-6 ">
-          <div class="event-container cover-bg" style="background-image:url(assets/images/music-rendition-event.jpg);" >
-            <div class="top-section">
-              <div class="event-date overlay-black">
-                <h3 class="day">25</h3>
-                <h5 class="month">DECEMBER</h3>
-                <h5 class="year">2018</h5>
-              </div>
-            </div>
-            <div class="bottom-section">
-              <div class="overlay-black">
-                <h3 class="big-title event-name">A NIGHT WITH THE STARS</h3>
-                <h5 class="event-tag">Music Rendition</h5>
-                <a class="btn btn-regular" href="music-rendition/">Get Together</a>
-              </div>
-            </div>
-          </div>
-        </div>
+
         <div class="col-lg-4 col-sm-12 col-md-6 ">
           <div class="event-container cover-bg" style="background-image:url(assets/images/soccer-event.jpg);" >
             <div class="top-section">
@@ -316,6 +319,7 @@
             </div>
           </div>
         </div>
+
         <div class="col-lg-4 col-sm-12 col-md-6 ">
           <div class="event-container cover-bg" style="background-image:url(assets/images/theatre-event.jpg);" >
             <div class="top-section">
@@ -334,6 +338,7 @@
             </div>
           </div>
         </div>
+
         <div class="col-lg-4 col-sm-12 col-md-6 ">
           <div class="event-container cover-bg" style="background-image:url(assets/images/carnival-event.jpg);" >
             <div class="top-section">
@@ -345,13 +350,14 @@
             </div>
             <div class="bottom-section">
               <div class="overlay-black">
-                <h3 class="big-title event-name">GOlIBE STREET FIESTA</h3>
+                <h3 class="big-title event-name">GOLIBE STREET FIESTA</h3>
                 <h5 class="event-tag">Carnival</h5>
                 <a class="btn btn-regular" href="carnival/">Register</a>
               </div>
             </div>
           </div>
         </div>
+
         <div class="col-lg-4 col-sm-12 col-md-6 ">
           <div class="event-container cover-bg" style="background-image:url(assets/images/pageant-event.jpg);" >
             <div class="top-section">
@@ -363,13 +369,14 @@
             </div>
             <div class="bottom-section">
               <div class="overlay-black">
-                <h3 class="big-title event-name">FACE OF GOlIBE PAGEANTS</h3>
+                <h3 class="big-title event-name">FACE OF GOLIBE PAGEANTS</h3>
                 <h5 class="event-tag">Mr and Miss Golibe</h5>
                 <a class="btn btn-regular" href="face-of-golibe/">Register</a>
               </div>
             </div>
           </div>
         </div>
+
         <div class="col-lg-4 col-sm-12 col-md-6 ">
           <div class="event-container cover-bg" style="background-image:url(assets/images/gastronomy-event.jpg);" >
             <div class="top-section">
@@ -388,24 +395,26 @@
             </div>
           </div>
         </div>
+
         <div class="col-lg-4 col-sm-12 col-md-6 ">
-          <div class="event-container cover-bg" style="background-image:url(assets/images/celebration-zone-event.jpg);" >
+          <div class="event-container cover-bg" style="background-image:url(assets/images/music-rendition-event.jpg);" >
             <div class="top-section">
               <div class="event-date overlay-black">
-                <h3 class="day">01</h3>
-                <h5 class="month">JANUARY</h3>
-                <h5 class="year">2019</h5>
+                <h3 class="day">31</h3>
+                <h5 class="month">DECEMBER</h3>
+                <h5 class="year">2018</h5>
               </div>
             </div>
             <div class="bottom-section">
               <div class="overlay-black">
-                <h3 class="big-title event-name">CELEBRATION ZONE</h3>
-                <h5 class="event-tag">Chill Zone</h5>
-                <a class="btn btn-regular" href="celebration-zone/">Check it Out</a>
+                <h3 class="big-title event-name">A NIGHT WITH THE STARS</h3>
+                <h5 class="event-tag">Music Rendition</h5>
+                <a class="btn btn-regular" href="music-rendition/">Get Together</a>
               </div>
             </div>
           </div>
         </div>
+
       </div>
     </div>
   </div>

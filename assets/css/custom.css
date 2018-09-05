@@ -99,6 +99,11 @@ div.cover-bg {
     background-repeat: no-repeat;
     background-position: center center;
 }
+.cover-bg {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
 span.header-rule {
     width: 50px;
     height: 5px;
@@ -769,5 +774,120 @@ section#festival-about-section .section-content-container,section#onitsha-about-
       -o-transform: translateY(0%);
       -ms-transform: translateY(0%);
       -moz-transform: translateY(0%);
+  }
+}
+.landing-page {
+    position:  absolute;
+    width: 100%;
+    min-height: 100%;
+    background: #eb01a5;
+    background-image: url("IMAGE_URL"); /* fallback */
+    background-image: url("IMAGE_URL"), linear-gradient(#eb01a5, #d13531); /* W3C */
+}
+
+body.landing-body {
+    padding-top: 0px;
+}
+
+.landing-page .countdown-timer {
+    display: none;
+}
+.landing-page .site-brand-container>img {
+    margin-top: 50px;
+    margin-bottom: 5px;
+}
+.landing-page a.enter-text {
+    position:  relative;
+    padding-right: 40px;
+}
+.landing-page a.enter-text>i {
+    position:  absolute;
+    right: 16px;
+    top: 50%;
+    transform: translateY(-50%);
+    transition:right 1s;
+}
+
+.landing-page a.enter-text:hover>i {
+    right: 10px;
+}
+.sponsor-container .land-brand-logo {
+    max-width: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.sponsor-container .land-brand-logo img {
+    max-height: 40px;
+}
+
+.landing-social ul.social.land {
+    margin: 0px;
+    padding: 0px;
+}
+
+.landing-page footer#footer-section {
+    margin-top:30px;
+    margin-bottom:30px;
+}
+
+.landing-social li.social-links>a>i {
+    font-size: 15px;
+}
+
+.landing-social li.social-links>a {
+    padding: 2px;
+    margin-top: 0px;
+}
+.landing-page .landing-social {
+    width: 100%;
+    text-align:  center;
+    margin-bottom: 20px;
+}
+
+.landing-page .sponsor-container {
+    text-align:  center;
+    width: 100%;
+}
+
+.landing-page .sponsor-container-content .row {text-align:  center;align-items:  center;justify-content:  center;}
+
+.landing-page .sponsor-container-content .row>.land-brand-logo {
+    display:  inline-block;
+}
+
+.sponsor-container-content .sponsor-title h5, .landing-social .social-title h5 {
+    font-size: 14px;
+    font-weight: 700;
+    display: inline-block;
+    padding: 5px 15px;
+    background-color: #fff;
+    min-width: 200px;
+    text-align: left;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    box-shadow: 0px 0px 0.5px 0px rgba(0,0,0,0.2);
+    -webkit-box-shadow: 0px 0px 0.5px 0px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0px 0px 0.5px 0px rgba(0,0,0,0.2);
+    -o-box-shadow: 0px 0px 0.5px 0px rgba(0,0,0,0.2);
+    -ms-box-shadow: 0px 0px 0.5px 0px rgba(0,0,0,0.2);
+}
+.fill-parent{
+  height: 100%;
+  width: 100%;
+}
+@media screen and (max-width: 767px){
+  .overlay-md{
+    background-color:rgba(255,255,255,0.5);
+  }
+  div.landing-page{
+    background-image: url(../images/carnival-bg-white.jpg) !important;
+  }
+  .sponsor-container-content .sponsor-title h5, .landing-social .social-title h5{
+    text-align: center;
+    background-color: transparent;
   }
 }
