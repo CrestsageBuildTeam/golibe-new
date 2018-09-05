@@ -7,8 +7,8 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
         <title>Golibe Festival 2018</title>
-        <link rel="icon" href="assets/images/golibe-favicon.ico">
-        <link rel="shortcut icon" href="assets/images/golibe-favicon.ico">
+        <link rel="icon" href="assets/images/golibe-main-logo.png">
+        <link rel="shortcut icon" href="assets/images/golibe-main-logo.png">
 
          <!-- Bootstrap CSS  -->
          <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
